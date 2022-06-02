@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d3a51dad2f730110111049e72799b669" sys_domain="global" table="x_767916_sbsystem_starbucks" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-31 03:43:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3a51dad2f730110111049e72799b66b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_767916_sbsystem_starbucks" name="x_767916_sbsystem_starbucks" sys_domain="global" view="Default view">d3a51dad2f730110111049e72799b669</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_767916_sbsystem_starbucks" sys_domain="global" view="Default view">4394d5092f920110111049e72799b62b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-31 03:43:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_767916_sbsystem_starbucks</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-31 03:43:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3a51dad2f730110111049e72799b669</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_767916_sbsystem_starbucks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d3a51dad2f730110111049e72799b669</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-31 03:43:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
