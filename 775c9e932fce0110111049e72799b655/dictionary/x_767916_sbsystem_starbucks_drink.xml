@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4653621b2fce0110111049e72799b637" label="Starbucks Drink" max_length="40" name="x_767916_sbsystem_starbucks_drink" type="collection">
+        <element label="Calories" max_length="40" name="calories" type="integer"/>
+        <element label="Carbs" max_length="40" name="carbs" type="integer"/>
+        <element label="Fat" max_length="40" name="fat" type="integer"/>
+        <element label="Fiber" max_length="40" name="fiber" type="integer"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Protein" max_length="40" name="protein" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="100" name="short_description" type="string"/>
+    </element>
+</database>

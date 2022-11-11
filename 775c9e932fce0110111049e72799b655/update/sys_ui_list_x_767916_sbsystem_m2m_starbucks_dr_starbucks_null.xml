@@ -37,13 +37,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
-            <sum>false</sum>
+            <sum>true</sum>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-16 03:04:47</sys_created_on>
             <sys_id>9eec3fec2fa38110111049e72799b689</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 03:04:47</sys_updated_on>
+            <sys_updated_on>2022-05-31 04:57:03</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -52,13 +52,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
-            <sum>false</sum>
+            <sum>true</sum>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-16 03:04:47</sys_created_on>
             <sys_id>92ec3fec2fa38110111049e72799b68a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 03:04:47</sys_updated_on>
+            <sys_updated_on>2022-05-31 04:57:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -67,13 +67,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
-            <sum>false</sum>
+            <sum>true</sum>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-16 03:04:47</sys_created_on>
             <sys_id>96ec3fec2fa38110111049e72799b68a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 03:04:47</sys_updated_on>
+            <sys_updated_on>2022-05-31 04:57:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -82,13 +82,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
-            <sum>false</sum>
+            <sum>true</sum>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-16 03:04:47</sys_created_on>
             <sys_id>9aec3fec2fa38110111049e72799b68a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 03:04:47</sys_updated_on>
+            <sys_updated_on>2022-05-31 04:57:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -97,13 +97,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
-            <sum>false</sum>
+            <sum>true</sum>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-16 03:04:47</sys_created_on>
             <sys_id>9eec3fec2fa38110111049e72799b68a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 03:04:47</sys_updated_on>
+            <sys_updated_on>2022-05-31 04:57:51</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -121,14 +121,11 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5eec3fec2fa38110111049e72799b688</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>x_767916_sbsystem_m2m_starbucks_dr_starbucks</sys_name>
             <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
             <sys_policy/>
             <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
             <sys_update_name>sys_ui_list_x_767916_sbsystem_m2m_starbucks_dr_starbucks_null</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 03:04:47</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

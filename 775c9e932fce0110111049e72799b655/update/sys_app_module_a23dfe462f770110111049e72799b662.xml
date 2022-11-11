@@ -24,15 +24,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a23dfe462f770110111049e72799b662</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>starbucks data2</sys_name>
         <sys_overrides/>
         <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
         <sys_update_name>sys_app_module_a23dfe462f770110111049e72799b662</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-02 00:33:07</sys_updated_on>
         <timeline_page/>
         <title>starbucks data2</title>
         <uncancelable>false</uncancelable>

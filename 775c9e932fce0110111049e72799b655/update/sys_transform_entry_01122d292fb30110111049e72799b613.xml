@@ -19,14 +19,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-31 04:37:55</sys_created_on>
         <sys_id>01122d292fb30110111049e72799b613</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>u_calories</sys_name>
         <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
         <sys_update_name>sys_transform_entry_01122d292fb30110111049e72799b613</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-31 04:37:55</sys_updated_on>
         <target_field>calories</target_field>
         <target_table>x_767916_sbsystem_starbucks_drink</target_table>
         <use_source_script>false</use_source_script>

@@ -5,14 +5,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-03-10 20:06:41</sys_created_on>
         <sys_id>62446e1b2fce0110111049e72799b618</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>protein-FieldValue</sys_name>
         <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
         <sys_update_name>sys_sg_view_config_element_62446e1b2fce0110111049e72799b618</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-10 20:06:41</sys_updated_on>
         <view_config display_value="Starbucks Drink Detail Screen View Config">9e446e1b2fce0110111049e72799b604</view_config>
         <view_template_slot display_value="text_07">e87845b041275010f877183fc9b8be13</view_template_slot>
     </sys_sg_view_config_element>

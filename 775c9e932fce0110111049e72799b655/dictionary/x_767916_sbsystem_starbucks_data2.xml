@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7d3dbe462f770110111049e72799b661" extends="sys_import_set_row" label="starbucks data2" max_length="40" name="x_767916_sbsystem_starbucks_data2" type="collection">
+        <element attributes="import_attribute_name=Calories" label="Calories" max_length="40" name="u_calories" type="integer"/>
+        <element attributes="import_attribute_name=Carb" label="Carb " max_length="40" name="u_carb" type="integer"/>
+        <element attributes="import_attribute_name=Fat" label="Fat " max_length="40" name="u_fat" type="integer"/>
+        <element attributes="import_attribute_name=Fiber" label="Fiber" max_length="40" name="u_fiber" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Image" label="Image" max_length="40" name="u_image" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Protein" label="Protein " max_length="40" name="u_protein" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short Description" label="Short Description " max_length="40" name="u_short_description" type="string"/>
+    </element>
+</database>

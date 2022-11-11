@@ -6,15 +6,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-16 02:41:29</sys_created_on>
-            <sys_id>8597f7202fe38110111049e72799b61e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>size</sys_name>
             <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
             <sys_policy/>
             <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
             <sys_update_name>sys_choice_x_767916_sbsystem_m2m_starbucks_dr_starbucks_size</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 02:41:29</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -30,10 +26,6 @@
             <sys_created_on>2022-05-16 02:41:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4d97f7202fe38110111049e72799b61d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 02:41:29</sys_updated_on>
             <value>tall</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -50,10 +42,6 @@
             <sys_created_on>2022-05-16 02:41:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8d97f7202fe38110111049e72799b61f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 02:41:29</sys_updated_on>
             <value>grande</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -70,10 +58,6 @@
             <sys_created_on>2022-05-16 02:41:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0197f7202fe38110111049e72799b621</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-16 02:41:29</sys_updated_on>
             <value>venti</value>
         </sys_choice>
     </sys_choice>

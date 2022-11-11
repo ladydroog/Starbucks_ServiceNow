@@ -10,14 +10,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-03-10 20:06:41</sys_created_on>
         <sys_id>22446e1b2fce0110111049e72799b61f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Starbucks Drink master_item</sys_name>
         <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
         <sys_update_name>sys_sg_master_item_22446e1b2fce0110111049e72799b61f</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-10 20:06:41</sys_updated_on>
         <use_view_config>true</use_view_config>
         <view_config display_value="Starbucks Drink List Screen View Config">52442a172fce0110111049e72799b645</view_config>
     </sys_sg_master_item>

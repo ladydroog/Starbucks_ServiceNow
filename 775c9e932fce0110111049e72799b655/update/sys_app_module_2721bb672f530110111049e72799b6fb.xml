@@ -24,15 +24,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2721bb672f530110111049e72799b6fb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>Place an order</sys_name>
         <sys_overrides/>
         <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
         <sys_update_name>sys_app_module_2721bb672f530110111049e72799b6fb</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 20:04:52</sys_updated_on>
         <timeline_page/>
         <title>Place an order</title>
         <uncancelable>false</uncancelable>

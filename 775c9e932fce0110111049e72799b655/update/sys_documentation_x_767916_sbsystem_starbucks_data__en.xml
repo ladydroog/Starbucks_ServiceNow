@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Starbucks data" language="en" table="x_767916_sbsystem_starbucks_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Starbucks data</label>
+            <language>en</language>
+            <name>x_767916_sbsystem_starbucks_data</name>
+            <plural>Starbucks data</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-31 04:24:41</sys_created_on>
+            <sys_name>Starbucks data</sys_name>
+            <sys_package display_value="Starbucks Management" source="x_767916_sbsystem">775c9e932fce0110111049e72799b655</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">775c9e932fce0110111049e72799b655</sys_scope>
+            <sys_update_name>sys_documentation_x_767916_sbsystem_starbucks_data__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
